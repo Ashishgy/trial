@@ -1,0 +1,15 @@
+[submodule "nsf-acapy"]
+	path = nsf-acapy
+	url = https://github.com/cwru-xlab/nsf-acapy
+[submodule "nsf-user-controller"]
+	path = nsf-user-controller
+	url = https://github.com/cwru-xlab/nsf-user-controller
+[submodule "nsf-service-provider-controller"]
+	path = nsf-service-provider-controller
+	url = https://github.com/cwru-xlab/nsf-service-provider-controller
+[submodule "progressive"]
+	path = progressive
+	url = https://github.com/cwru-xlab/Progressive
+[submodule "acapy-new"]
+	path = acapy-new
+	url = https://github.com/hyperledger/aries-cloudagent-python.git

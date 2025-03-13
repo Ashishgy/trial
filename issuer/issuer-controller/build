@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#docker build -t serv-controller .
+#docker tag issu-controller 429105560611.dkr.ecr.us-east-1.amazonaws.com/serv-controller
+#docker push 429105560611.dkr.ecr.us-east-1.amazonaws.com/serv-controller
+
+docker compose -f ../../issuer-docker-compose.yaml build controller --no-cache

@@ -1,0 +1,7 @@
+tunnels:
+  issuer-agent:
+    addr: 9090
+    proto: http
+    bind-tls: true
+version: "1"
+authtoken: 2GQtNxE2KwNC2YmebeOS3FmoqPQ_7s2UH32HLJo2mF8Pb5D3Q

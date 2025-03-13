@@ -1,0 +1,9 @@
+User ID,Title of Video,Description of Video,Category ID,Comment,Sentiment
+1,Java Basics for Beginners,Introduction to Java programming.,27,"Clear explanation and very useful!",1
+1,Best Vegan Recipes,Delicious and easy vegan meal ideas.,26,"The recipes are fantastic loved it!",1
+1,Top 10 Sci-Fi Movies,A list of must-watch sci-fi movies.,24,"Most of these movies are overrated.",-1
+1,Workout Routine for Beginners,A simple workout plan to get started.,24,"Good exercises I enjoyed following along.",1
+1,Introduction to Algorithms,Learn the basics of algorithms.,27,"Found it too complex for a beginner tutorial.",-1
+1,Travel Vlog: Exploring Paris,A tour of famous Paris attractions.,19,"Beautiful places thanks for sharing!",1
+1,How to Meditate for Beginners,Guide on how to start meditating.,22,"Very calming and helpful I feel relaxed.",1
+1,Best Smartphones of 2024,A review of the latest smartphones.,28,"Not enough details on battery life.",-1
